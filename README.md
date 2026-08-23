@@ -1,7 +1,7 @@
 # Lab-03-Assigning-licenses-using-group-membership
 I created a security group, assigned a license to the group, and verified that a member of the group inherited the license. This exercise showed how group-based licensing scales license management beyond per-user assignment.
  
-
+<h2>https://youtu.be/nSQUbY0b0OM<h2>
 <h2>Description</h2>
 My organization has decided to use security groups in Microsoft Entra ID to manage licenses. You need to configure a new security group and assign a license to that group and verify group member license’s have been updated.
 <br />
